@@ -1,0 +1,19 @@
+.wrapper {
+    text-align: center;
+    margin: 100px;
+    border: solid 1px #000;
+    padding: 20px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.input-wrapper {
+    border: solid 1px #000;
+    padding: 25px;
+}
+
+.transaction-wrapper {
+    margin: 25px;
+    border: solid 1px #000;
+    padding: 25px;
+}
